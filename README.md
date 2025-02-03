@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Anand Anil Kharat
 - 👀 I’m interested in Competetive Programing and Computer Architechture.
 - 🌱 I’m currently learning DSA in C Language
-- 😄 Pronouns: Andy
 
 <!---
 anandk404/anandk404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
