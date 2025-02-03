@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anandk404
+- 👋 Hi, I’m Anand Anil Kharat
 - 👀 I’m interested in Competetive Programing and Computer Architechture.
 - 🌱 I’m currently learning DSA in C Language
 - 😄 Pronouns: Andy
